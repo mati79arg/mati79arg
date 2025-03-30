@@ -4,7 +4,7 @@
 <br/>  
 
 
-## My Skills  
+## 📑 My Skills  
 <table><tr><td valign="top" width="33%">
 
 
@@ -58,7 +58,7 @@
 </p>
 
 
-### Contact me  
+### 📧 Contact me  
 <div align="center">
 <a href="http://www.matiasalvarez.com.ar" target="_blank"><img src="https://img.shields.io/badge/-matiasalvarez.com.ar-5aa03b?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/matias-alvarez-abb1ba352/" target="_blank"><img src="https://img.shields.io/badge/-Matias%20Alvarez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
